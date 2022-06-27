@@ -1,2 +1,14 @@
 These are solutions to problems from the AIO
 in CWEB, a system for literate programming.
+
+To actually run these, you need a distribution
+of TeX with the the 'ctangle' and 'cweave' programs.
+
+Typing 'make' in the subdirectory of a
+problem should create both the literate program
+(as a pdf file) and the executable that you
+can run. The input file for each program should
+already be there but if it isn't, create it
+before running the program; most of the programs
+assume that the input file exists, as it is
+meant to be running on a judging computer.
