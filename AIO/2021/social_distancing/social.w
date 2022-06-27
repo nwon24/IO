@@ -94,7 +94,7 @@ valid meal.
 @<Calculate the...@>=
 int last = 0;
 answer = 0;
-@<Sort the input array@>
+@<Sort the input array@>;
 for (int i = 0; i < N; i++) {
   if (i==0 ||
       D[i] - last >= K) {
