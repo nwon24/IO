@@ -1,0 +1,10 @@
+*~
+*.dvi
+*.idx
+*.log
+*.scn
+*.toc
+*.tex
+*.c
+*.pdf
+*out.txt
