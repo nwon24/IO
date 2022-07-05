@@ -1,7 +1,14 @@
 \input eplain
+%\beginpackages
+%  \usepackage{url}
+%\endpackages
+\enablehyperlinks
 @*Laser cutter.
 This is the sixth and final problem from the
 2021 Australian Informatics Olympiad.
+The solution presented in this document can be found in
+the editorial page for the problem
+\href{https://orac2.info/hub/train/editorials-aio21-q6}{{\bf here}}.
 
 The problem consists of a laser cutter
 cutting a shape into a square piece of
