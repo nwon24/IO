@@ -1,6 +1,6 @@
 NAME = ghost
 CC = cc
-CFLAGS = -std=c11 -O2 -Wall -Wextra -pedantic -ggdb
+CFLAGS = -std=c11 -O2 -Wall -Wextra -pedantic -ggdb -O2
 
 all: ${NAME}.w
 	ctangle ${NAME}.w

@@ -1,6 +1,6 @@
 NAME = melody
 CC = cc
-CFLAGS = -std=c11 -Wall -Wextra -pedantic -ggdb
+CFLAGS = -std=c11 -Wall -Wextra -pedantic -ggdb -O2
 
 all: ${NAME}.w
 	ctangle ${NAME}.w
