@@ -1,3 +1,9 @@
+\documentclass{cweb}
+\title{Melody}
+\author{Nathan Wong}
+\usepackage{cweb-latex}
+\begin{document}
+\maketitle
 @*Melody. This is a problem from the 2021
 Australian Informatics Olympiad.
 
@@ -215,3 +221,4 @@ so we also need to include |stdlib.h|.
 @<Include files@>=
 #include <stdio.h>
 #include <stdlib.h>
+\end{document}
