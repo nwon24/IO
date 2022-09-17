@@ -18,6 +18,11 @@ program needs to determine the largest number of monks that
 can be assigned to jobs.
 
 Note that this program is written in C++.
+To make the output look a bit nicer, we need a few format definitions.
+You can ignore these; this has to do with the {\tt CWEB} language.
+@f greater make_pair
+@f array make_pair
+
 @c
 @<Include files@>@;
 @<Global variables@>@;
