@@ -5,7 +5,6 @@
 *.scn
 *.toc
 *.tex
-*.c
 *.pdf
 *out.txt
 *.ps
